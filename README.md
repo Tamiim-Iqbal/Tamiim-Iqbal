@@ -10,6 +10,7 @@ To Do:
 Goals:
 - 2023 🎯: To solve 100+ problems
 - 2024 🎯: To solve 1000+ problems, become codeforces pupil and participate ICPC Dhaka Regional
+  
 About me:
 -  💻 Most used code-editor `Visual studio Code`
 - 👀 I’m interested in Movies, Series, Books, Cricket, Football, Video games 
