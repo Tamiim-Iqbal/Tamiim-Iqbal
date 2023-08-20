@@ -1,4 +1,4 @@
-Hi, I’m Tamim Iqbal 👋
+<h1 align="center"> Hi, I’m Tamim Iqbal👋 </h1>
 
 To Do:
 - 🌱 I'm currently learning C
