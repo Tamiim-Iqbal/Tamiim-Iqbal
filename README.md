@@ -8,7 +8,7 @@
 - 🌱 Learn Algorithm
 ---> 
 ### Goals:
-- 2023 🎯: To solve 100+ problems
+- 2023 🎯: To solve 100+ CF problems
 <!--- - 2024 🎯: To solve 1000+ problems, become codeforces pupil and participate ICPC Dhaka Regional
 --->
 ### About me:
