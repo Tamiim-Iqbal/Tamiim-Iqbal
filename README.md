@@ -9,7 +9,7 @@
 ---> 
 ### Goals:
 - 2024 🎯: To solve 500 problems, become codeforces pupil, Learn Web Development
-- 
+ 
 ### About me:
 - 💻 Most used code-editor `Visual studio Code`
 - 👀 I’m interested in Movies, Series, Books, Video games 
