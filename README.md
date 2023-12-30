@@ -1,16 +1,16 @@
 <h1 align="center"> Hi, I’m Tamim Iqbal 👋 </h1>
 
 ### To Do:
-- 🌱 I'm currently learning **C**
+- 🌱 I'm currently learning **Data Structure**
+- 🌱 Learned C++
+- 🌱 Learned C
 <!---
-- 🌱 Learn C++
-- 🌱 Learn Data Structure
 - 🌱 Learn Algorithm
 ---> 
 ### Goals:
-- 2023 🎯: To solve 100+ CF problems
-<!--- - 2024 🎯: To solve 1000+ problems, become codeforces pupil and participate ICPC Dhaka Regional
---->
+- 2024 🎯:
+- To solve 500 problems, become codeforces pupil
+- Learn Web Development
 ### About me:
 - 💻 Most used code-editor `Visual studio Code`
 - 👀 I’m interested in Movies, Series, Books, Cricket, Football, Video games 
