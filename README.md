@@ -8,7 +8,7 @@
 - 🌱 Learn Algorithm
 ---> 
 ### Goals:
-2024 🎯:
+- 2024 🎯:
       - To solve 500 problems, become codeforces pupil
       - Learn Web Development
 ### About me:
