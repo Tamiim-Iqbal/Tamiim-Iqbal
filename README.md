@@ -10,10 +10,7 @@
 ---> 
 ### Goals:
 
-- 2024 🎯:
-1. To solve 500 Problems
-2. Become Codeforces Pupil
-3. Become Codechef 2 star
+- 2024 🎯: To solve 500 Problems, Become Codeforces Pupil & Codechef 2 star
  
 ### About me:
 - 💻 Most used code-editor `Visual studio Code`
