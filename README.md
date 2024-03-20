@@ -1,15 +1,19 @@
 <h1 align="center"> Hi, I’m Tamim Iqbal 👋 </h1>
 
 ### To Do:
-- 🌱 I'm currently focusing on **Problem Solving**
-- 🌱 Learned Data Structure & Algorithm
+- 🌱 Currently, I'm focusing on **Problem-Solving**
+- 🌱 Learned Data Structure & Algorithm (DSA)
 - 🌱 Learned C++
 - 🌱 Learned C
 <!---
 - 🌱 
 ---> 
 ### Goals:
-- 2024 🎯: To solve 500 Problems, become Codeforces Pupil & Codechef 2 star
+
+- 2024 🎯:
+1. To solve 500 Problems
+2. Become Codeforces Pupil
+3. Become Codechef 2 star
  
 ### About me:
 - 💻 Most used code-editor `Visual studio Code`
