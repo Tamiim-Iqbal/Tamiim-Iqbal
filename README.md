@@ -3,8 +3,7 @@
 ### To Do:
 - 🌱 Currently, I'm focusing on **Problem-Solving**
 - 🌱 Learned Data Structure & Algorithm (DSA)
-- 🌱 Learned C++
-- 🌱 Learned C
+- 🌱 Learned C, C++
 <!---
 - 🌱 
 ---> 
