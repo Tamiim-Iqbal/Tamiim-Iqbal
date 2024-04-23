@@ -20,7 +20,7 @@
 - 2025 🎯:
       January - June -> Web Development
       July - September -> IELTS
-      October - Decemember -> GRE
+      October - Decemember -> GRE / SAT
 ---> 
  
 ### About me:
