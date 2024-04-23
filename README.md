@@ -9,7 +9,19 @@
 ---> 
 ### Goals:
 
-- 2024 🎯: To solve 500 Problems, Become Codeforces Pupil & Codechef 2 star
+- 2024 🎯: To solve Overall 500 Problems, Become Codeforces Pupil (1200) & Codechef 2 Star (1400)
+
+<!---
+- 2024 🎯: 
+      April - July -> XPSC 
+      June -> Explore Robotics
+      Aug - Nov -> Software Development
+      Dec -> Video Editing + AI Crash Course
+- 2025 🎯:
+      January - June -> Web Development
+      July - September -> IELTS
+      October - Decemember -> GRE
+---> 
  
 ### About me:
 - 💻 Most used code-editor `Visual studio Code`
