@@ -8,9 +8,10 @@
 - 🌱 
 ---> 
 ### Goals:
-
+<!--
 - 2024 🎯: To solve Overall 500 Problems, Become Codeforces Pupil (1200) & Codechef 2 Star (1400) - Codechef 2 Star Done 
-
+--->
+- 2024 🎯: Become Codechef 2 Star (Done) 
 <!---
 - 2024 🎯: 
       April - July -> XPSC 
