@@ -14,14 +14,11 @@
 - 2024 🎯: Become Codechef 2 Star (Done) 
 <!---
 - 2024 🎯: 
-      April - July -> XPSC 
-      June -> Explore Robotics
-      Aug - Nov -> Software Development
-      Dec -> Video Editing + AI Crash Course
+      June -> XPSC 
+      July - December -> Web Development + Software Development
 - 2025 🎯:
-      January - June -> Web Development
-      July - September -> IELTS
-      October - Decemember -> GRE / SAT
+      January - April -> Video Editing / IELTS
+      May - October -> Level 2
 ---> 
  
 ### About me:
