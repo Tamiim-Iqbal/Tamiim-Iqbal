@@ -2,7 +2,7 @@
 
 ### To Do:
 - 🌱 Currently, I'm focusing on **Problem-Solving** & **Web Development**
-- 🌱 Learned Data Structure & Algorithm (DSA)
+- 🌱 Learned Data Structure & Algorithm (DSA) with C++
 - 🌱 Learned C, C++
 <!---
 - 🌱 
@@ -13,8 +13,7 @@
 --->
 - 2024 🎯: Become Codechef 2 Star (Done) 
 <!---
-- 2024 🎯: 
-      June -> Web (P) + XPSC 
+- 2024 🎯:  
       July - December -> Web Development + XPSC
 ---> 
  
