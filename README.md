@@ -12,7 +12,7 @@
 <!--
 - 2024 🎯: To solve Overall 500 Problems, Become Codeforces Pupil (1200) & Become a Web Developer
 --->
-- 2024 🎯: Become Codechef 2 Star (Done) 
+- 2024 🎯: Become Codechef 2 Star (Done), Learn Web Development
 <!---
 - 2024 🎯:  
       July - December -> Web Development + Python
