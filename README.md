@@ -16,16 +16,20 @@
   - Components & UIs: `Daisy UI`
   <!---
   - Javascript Framworks/Libraries:
-  --->
   - Databases: `MySQL`
+  --->
+  <!---
   - Design : `UI/UX`
   - Tools & Software: `GitHub` `Pixso` `Figma`
-  - Responsive Design: `CSS Media Query` `Flexbox` `Grid`
+  --->
+  - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
 
 - **Competitive Programming:**
   - Codechef: `⭑⭑/ 1418`
   - Codeforces: `newbie/ 775`
-  
+
+<hr>
+
 ### 🐻‍❄ About me:
 - 💻 Most used code-editor `Visual Studio Code`
 - 👀 I’m interested in Movies, Series, Books & Video games 
