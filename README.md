@@ -28,8 +28,6 @@
   - Codechef: `⭑⭑/ 1418`
   - Codeforces: `newbie/ 775`
 
-<hr>
-
 ### 🐻‍❄ About me:
 - 💻 Most used code-editor `Visual Studio Code`
 - 👀 I’m interested in Movies, Series, Books & Video games 
