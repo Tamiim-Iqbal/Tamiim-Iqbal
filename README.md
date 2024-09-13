@@ -31,7 +31,7 @@
 ### 🐻‍❄ About me:
 - 💻 Most used code-editor `Visual Studio Code`
 - 👀 I’m interested in Movies, Series, Books & Video games 
-- 📫 You can reach me out through Email: **tamimoooiqbal@gmail.com**
+- 📫 You can reach me out through Email: **iqbal.tamim.0011@gmail.com**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=32&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Tamiim-Iqbal)
 
