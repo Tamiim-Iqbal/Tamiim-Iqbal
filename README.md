@@ -3,19 +3,19 @@
 <!---
 - 🌱 
 ---> 
-### 🎯 Goals:
+### 🎯 Goals :
 - 2024 : Become **Codechef 2 Star** (Done), Learn **Web Development**
 <!---
 - 2024 🎯:  
 ---> 
-### 😎 Expertise:
+### 😎 Expertise :
 - **Programming Languages:** `C` `C++` `Java` `Python` `JavaScript`
 - **Web Development:**
   - Languages & Markup: `HTML` `CSS`
   - CSS Frameworks/ Libraries: `Tailwind` `Bootstrap`
   - Components & UIs: `Daisy UI`
   - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
-  - **Javascript:** `DOM Manipulation` `Fetch API` 
+  - **Javascript :** `DOM Manipulation` `Fetch API` 
   <!---
   - Javascript Framworks/Libraries:
   - Databases: `MySQL`
@@ -26,7 +26,7 @@
   --->
  
 
-- **Competitive Programming:**
+- **Competitive Programming :**
   - Codechef: `⭑⭑/ 1418`
   - Codeforces: `newbie/ 775`
 
