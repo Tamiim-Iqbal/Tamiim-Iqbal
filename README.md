@@ -38,7 +38,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=32&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Tamiim-Iqbal)
 
 
-### 🔥 My GitHub Stats :
+### 🔥 GitHub Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamiim-iqbal&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
