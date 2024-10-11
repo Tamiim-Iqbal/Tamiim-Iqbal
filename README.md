@@ -15,7 +15,7 @@
   - CSS Frameworks/ Libraries: `Tailwind` `Bootstrap`
   - Components & UIs: `Daisy UI`
   - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
-  - **Javascript :** `DOM Manipulation` `Fetch API` 
+  - **Javascript :** `DOM Manipulation` `API Integration` 
   <!---
   - Javascript Framworks/Libraries:
   - Databases: `MySQL`
