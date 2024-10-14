@@ -15,14 +15,16 @@
   - CSS Frameworks/ Libraries: `Tailwind` `Bootstrap`
   - Components & UIs: `Daisy UI`
   - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
-  - **Javascript :** `DOM Manipulation` `API Integration` 
+  - Javascript : `DOM Manipulation` `API Integration`
+  - Tools: `GitHub` `Pixso` `Figma`
+  - Deployment: `Netlify` `Surge` `Vercel`
   <!---
   - Javascript Framworks/Libraries:
   - Databases: `MySQL`
   --->
   <!---
   - Design : `UI/UX`
-  - Tools & Software: `GitHub` `Pixso` `Figma`
+  
   --->
  
 
