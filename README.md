@@ -2,7 +2,21 @@
 
 <!---
 - 🌱 
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" />
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFsZWlqejVnMG91a3E3NDlvNHRnejg2aTdsMmk4eWF1bHdobXp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp    [typing]
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdvMmxyY3U5ZHhweXVxODhvbTJhY3d4bTlmb3Fsamp1bmVuZnl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp    [coding]
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZyMzU4ejV2eXQzdWVqcnd6cnRzN2lycWljbjg3bHMydTdzN2Q5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp    [deadline]
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY0NXhyODR1OG5hNjZ1bGhqMzMyZmFvZDNleDk0Mjg2Z2VhMXVwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp    [sleeping]
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xmNGZkc3VwMjMxOTA1bjlwdG53emV3eXZ2YWo3N2hzcWVmeGt5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SPEvnyIldaGvTogw7C/giphy.webp    [laptop destroying]
+https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif   
+https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g    [let chatgpt]
 ---> 
+
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFsZWlqejVnMG91a3E3NDlvNHRnejg2aTdsMmk4eWF1bHdobXp5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
+
+
+
+
 ### 🎯 Goals_
 - 2024 : Become **Codechef 2 Star** (Done), Learn **Web Development**
 <!---
