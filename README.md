@@ -49,6 +49,17 @@
 
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamiim-iqbal&theme=gotham&hide_border=true" width="46.7%" alt="Github Stat"/> -->
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamiim-iqbal&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="33.5%" alt="Github Stat"/> -->
-  
 </div>
 
+### ✍️ Random Dev Quote_
+<br>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+</div>
