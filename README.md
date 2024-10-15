@@ -40,6 +40,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=32&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=90&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Tamiim-Iqbal)
 
 
+### ✍️ Random Dev Quote_
+<br>
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+ 
+</div>
+
+
 ### 🔥 GitHub Stats_
 <br>
 <div align="center">
@@ -51,10 +60,4 @@
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamiim-iqbal&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="33.5%" alt="Github Stat"/> -->
 </div>
 
-### ✍️ Random Dev Quote_
-<br>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</div>
