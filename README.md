@@ -27,10 +27,11 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript`
 - **Web Development :**
   - Languages & Markup: `HTML` `CSS`
-  - CSS Frameworks/ Libraries: `Tailwind` `Bootstrap`
-  - Components & UIs: `Daisy UI`
+  - CSS Frameworks/ UIs: `Tailwind` `Bootstrap` `Daisy UI`
   - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
   - Javascript : `DOM Manipulation` `API Integration`
+  - Javascript Library : `React`
+  - Database : `MySQL` `MongoDB`
   - Tools: `GitHub` `Pixso` `Figma`
   - Deployment: `Netlify` `Surge` `Vercel`
   <!---
