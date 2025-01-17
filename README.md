@@ -18,7 +18,8 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 
 
 ### 🎯 Goals_
-- 2024 : Become **Codechef 2 Star** (Done), Learn **Web Development**
+- 2025 : Become **Codechef 3 Star, Codeforces Pupil**, Solve **1000 Problems**, Complete **Web Development**
+- 2024 : Become **Codechef 2 Star** (Done), Explore **Web Development** (Done)
 <!---
 - 2024 🎯:  
 ---> 
