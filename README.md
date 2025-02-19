@@ -69,8 +69,8 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 ### 🔥 GitHub Stats_
 <br>
 <div align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=tamiim-iqbal&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github Stat"/> -->
- <img src="http://github-readme-streak-stats.herokuapp.com?user=tamiim-iqbal&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github Stat"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=tamiim-iqbal&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github Stat"/>
+<!--  <img src="http://github-readme-streak-stats.herokuapp.com?user=tamiim-iqbal&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github Stat"/> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiim-iqbal&layout=compact&theme=vue-dark&hide_border=true" width="33.5%" height="100%" alt="Github STat"/> 
 
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamiim-iqbal&theme=gotham&hide_border=true" width="46.7%" alt="Github Stat"/> -->
