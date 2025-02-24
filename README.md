@@ -60,7 +60,9 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 ### ✍️ Random Dev Quote_
 <br>
 <div align="center">
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=)
+  
 </div>
 
 
