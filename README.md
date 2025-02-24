@@ -16,7 +16,6 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 
 
 
-
 ### 🎯 Goals_
 <!-- - 2025 : Become **Codechef 3 Star, Codeforces Pupil**, Solve **1000 Problems**, Complete **Web Development**
 
@@ -36,17 +35,16 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
   - Javascript Library : `React`
   - Database : `MongoDB` `MySQL`
   - Tools: `GitHub` `Pixso` `Figma`
-  - Deployment: `Vercel` `Netlify` `Surge` 
+  - Deployment: `Vercel` `Netlify` `Surge`
+    
   <!---
   - Javascript Framworks/Libraries:
   - Databases: `MySQL`
   --->
   <!---
   - Design : `UI/UX`
-  
   --->
  
-
 - **Competitive Programming :**
   - Codechef : `⭑⭑/ 1418`
   - Codeforces : `newbie/ 775`
@@ -62,9 +60,7 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 ### ✍️ Random Dev Quote_
 <br>
 <div align="center">
-
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=)
- 
 </div>
 
 
