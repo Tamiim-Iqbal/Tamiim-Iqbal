@@ -15,7 +15,6 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 <img align="right" height="150" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
 
 
-
 ### 🎯 Goals_
 <!-- - 2025 : Become **Codechef 3 Star, Codeforces Pupil**, Solve **1000 Problems**, Complete **Web Development**
 
