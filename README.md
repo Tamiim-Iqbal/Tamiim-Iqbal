@@ -47,7 +47,7 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
  
 - **Competitive Programming :**
   - Codechef : `⭑⭑/ 1418`
-  - Codeforces : `newbie/ 991`
+  - Codeforces : `newbie/ 911`
 
 ### 🐻‍❄ About me_
 - 💻 Most used code-editor `Visual Studio Code`
