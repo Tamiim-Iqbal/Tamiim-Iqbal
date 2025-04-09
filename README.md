@@ -29,8 +29,8 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript` 
 
 - **Competitive Programming :**
-  - Codechef : `⭑⭑/ 1418`
-  - Codeforces : `newbie/ 911`
+  - Codechef : **`max : 1418(⭑⭑)`**
+  - Codeforces : **`max : 911(newbie)`**
 
 - **Overall Problem Solved : 279**
   - Codeforces : 133
