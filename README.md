@@ -26,7 +26,21 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 
 
 ### 😎 Expertise_
-- **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript`
+- **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript` 
+
+- **Competitive Programming :**
+  - Codechef : `⭑⭑/ 1418`
+  - Codeforces : `newbie/ 911`
+
+- **Overall Problem Solved : 279**
+  - Codeforces : 133
+  - Codechef : 23
+  - Leetcode : 17
+  - Others : 11
+  - Courses : 95
+  
+  ***(last updated : April 9, 2025)***
+    
 - **Web Development :**
   - Languages & Markup: `HTML` `CSS`
   - CSS Frameworks/ UIs: `Tailwind CSS` `Daisy UI`
@@ -45,9 +59,7 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
   - Design : `UI/UX`
   --->
  
-- **Competitive Programming :**
-  - Codechef : `⭑⭑/ 1418`
-  - Codeforces : `newbie/ 911`
+
 
 ### 🐻‍❄ About me_
 - 💻 Most used code-editor `Visual Studio Code`
