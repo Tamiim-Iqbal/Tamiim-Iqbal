@@ -32,14 +32,14 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
   - Codechef : **`max : 1418(⭑⭑)`**
   - Codeforces : **`max : 911(newbie)`**
 
-- **Overall Problem Solved : 279**
-  - Codeforces : 133
+- **Overall Problem Solved : 283**
+  - Codeforces : 137
   - Codechef : 23
   - Leetcode : 17
   - Others : 11
   - Courses : 95
   
-  ***(last updated : April 9, 2025)***
+  ***(last updated : April 11, 2025)***
     
 - **Web Development :**
   - Languages & Markup: `HTML` `CSS`
