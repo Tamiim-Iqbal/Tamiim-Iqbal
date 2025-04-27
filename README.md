@@ -11,7 +11,7 @@ https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xmNGZkc3VwMjMxOTA1bjlwdG53em
 https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif     [let chatgpt]
 https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g    [let chatgpt]
 ---> 
-
+<img src="https://komarev.com/ghpvc/?username=tamiim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="Tamim Iqbal" />
 <img align="right" height="150" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
 
 
@@ -61,10 +61,14 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
  
 
 
-### 🐻‍❄ About me_
-- 💻 Most used code-editor `Visual Studio Code`
-- 👀 I’m interested in Movies, Series, Books & Video games 
-- 📫 You can reach me out through Email: **iqbal.tamim.0011@gmail.com**
+### 🐻‍❄ Connect with me_
+<a href="https://www.linkedin.com/in/tamiim-iqbal/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
+<br> <br>
+
+📫 You can reach me out through Email: **iqbal.tamim.0011@gmail.com**
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=32&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=90&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Tamiim-Iqbal)
 
