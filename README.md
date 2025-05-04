@@ -24,25 +24,44 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - 2024 🎯:  
 ---> 
 
-### 📊 Competitive Programming_
-<a href="https://codeforces.com/profile/tamim-iqbal">
-   <img src="https://raw.githubusercontent.com/tamiim-iqbal/ct-stats/main/output/max_rating.svg" />
-</a>
+###  Competitive Programming_
 
-  - Codechef : **`max : 1418(⭑⭑)`**
-  - Codeforces : **`max : 911(newbie)`**
-
-- **Overall Problem Solved : 283**
-  - Codeforces : 137
-  - Codechef : 23
-  - Leetcode : 17
-  - Others : 11
-  - Courses : 95
-
-![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg)
-
-  ***(last updated : April 11, 2025)***
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Codeforces</td>
+          <td>
+            <a href="https://codeforces.com/profile/tamim-iqbal">
+              <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/max_rating.svg" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Codechef</td>
+          <td><strong><code>1418 (⭑⭑)</code></strong></td>
+        </tr>
+        <tr>
+          <td>Overall Problems Solved</td>
+          <td><strong>300+</strong></td>
+        </tr>
+      </table>
+      <ul>
+        <li>Codeforces : <code><strong>152</strong></code></li>
+       <li>Codechef : <code><strong>23</strong></code></li>
+       <li>Leetcode : <code><strong>17</strong></code></li>
+       <li>Others : <code><strong>100</strong></code></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg" />
+    </td>
+  </tr>
+</table>
+ 
+ *last updated : May 3, 2025*
     
 ### 😎 Expertise_
 - **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript`
