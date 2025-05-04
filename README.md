@@ -24,11 +24,11 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - 2024 🎯:  
 ---> 
 
+### 📊 Competitive Programming_
+<a href="https://codeforces.com/profile/tamim-iqbal">
+   <img src="https://raw.githubusercontent.com/tamiim-iqbal/ct-stats/main/output/max_rating.svg" />
+</a>
 
-### 😎 Expertise_
-- **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript` 
-
-- **Competitive Programming :**
   - Codechef : **`max : 1418(⭑⭑)`**
   - Codeforces : **`max : 911(newbie)`**
 
@@ -38,11 +38,15 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
   - Leetcode : 17
   - Others : 11
   - Courses : 95
-- ![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg)
-  
+
   ***(last updated : April 11, 2025)***
     
+### 😎 Expertise_
+- **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript`
+
 - **Web Development :**
   - Languages & Markup: `HTML` `CSS`
   - CSS Frameworks/ UIs: `Tailwind CSS` `Daisy UI`
