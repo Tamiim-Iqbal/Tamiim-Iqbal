@@ -38,6 +38,8 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
   - Leetcode : 17
   - Others : 11
   - Courses : 95
+- ![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg)
   
   ***(last updated : April 11, 2025)***
     
