@@ -24,7 +24,7 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - 2024 🎯:  
 ---> 
 
-###  Competitive Programming_
+### ❗ Competitive Programming_
 
 <table>
   <tr>
