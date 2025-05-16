@@ -55,10 +55,8 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
       </ul>
     </td>
     <td>
-      [![Light Mode Image](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg)]
-      ![Dark Mode Image](https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg)
-<!--       <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-      <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg" /> -->
+      <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/tamiim-iqbal/cf-stats/main/output/light_card.svg#gh-light-mode-only" />
     </td>
   </tr>
 </table>
