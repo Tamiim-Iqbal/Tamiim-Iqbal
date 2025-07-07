@@ -12,7 +12,7 @@ https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif     [let chatgpt]
 https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g    [let chatgpt]
 ---> 
 <img src="https://komarev.com/ghpvc/?username=tamiim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="Tamim Iqbal" />
-<img align="right" height="150" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
+<img align="right" height="50" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
 
 
 ### 🎯 Goals_
