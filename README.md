@@ -1,4 +1,17 @@
 <h1 align="center"> Hi, I’m Tamim Iqbal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33"> </h1>
+<p>I'm a Computer Science graduate and a Full-Stack Web Developer passionate about building modern, scalable, and user-friendly web applications.
+Currently, I'm focused on strengthening my skills in MERN Stack, Next.js, Data Structures & Algorithms, and System Design while building real-world projects.</p>
+
+### 🚀 About Me_
+
+- 🎓 **Computer Science graduate** with a passion for software development
+- 💻 **Full-Stack Web Developer** focused on building modern and scalable web applications
+- 🌱 Currently strengthening my skills in **MERN Stack** and **Next.js**
+- 🧠 Practicing **Data Structures & Algorithms** and improving problem-solving skills
+- 🏗️ Building **real-world projects** to gain practical development experience
+- ⚙️ Interested in **System Design, Software Engineering, and scalable applications**
+- 📚 Always learning new technologies and improving my development skills
+- 🎯 Aspiring to become a **strong software engineer** and contribute to impactful products
 
 <!---
 - 🌱 
