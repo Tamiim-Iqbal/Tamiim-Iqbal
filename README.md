@@ -5,7 +5,7 @@
     width="100%"
   />
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=tamiim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="Tamim Iqbal" />
 <h1 align="center"> Hi, I’m Tamim Iqbal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33"> </h1>
 <p align="center">
 I'm a <strong>Computer Science graduate</strong> and a <strong>Full-Stack Web Developer</strong> passionate about building <strong>modern, scalable, and user-friendly web applications</strong>. Currently, I'm focused on strengthening my skills in <strong>MERN Stack, Next.js, Data Structures & Algorithms, and System Design</strong> while building <strong>real-world projects</strong>.
@@ -32,7 +32,7 @@ https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xmNGZkc3VwMjMxOTA1bjlwdG53em
 https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif     [let chatgpt]
 https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g    [let chatgpt]
 ---> 
-<img src="https://komarev.com/ghpvc/?username=tamiim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="Tamim Iqbal" />
+
 <img align="right" height="140" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
 
 
