@@ -40,7 +40,9 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 <!--- 2025 : Become **Codechef 3 Star, Codeforces Pupil & Specialist**, Solve overall **1000 Problems**, Complete **Web Development**
 
 --->
-- 2024 : Become **Codechef 2 Star** (Done), Explore **Web Development** (Done)
+- 2024 : Become **Codechef 2 Star** (Done) (Done)
+- 2025 : Focus on **Study** & **DSA** (Done)
+- 2026 : Explore **Full Stack Web Development** (Pending)
 <!---
 - 2024 🎯:  
 ---> 
@@ -88,24 +90,13 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 - **Programming Languages :** `C` `C++` `Java` `Python` `JavaScript`
 
 - **Web Development :**
-  - Languages & Markup: `HTML` `CSS`
-  - CSS Frameworks/ UIs: `Tailwind CSS` `Daisy UI`
-  - Responsive Design: `Grid` `Flexbox` `CSS Media Query` 
-  - Javascript : `DOM Manipulation` `API Integration`
-  - Javascript Library : `React`
+  - UI Libraries: `Tailwind CSS` `Daisy UI` `Hero UI` `ShadCN UI`
+  - Javascript Library : `React` `Next.js`
   - Database : `MongoDB` `MySQL`
-  - Tools: `GitHub` `Pixso` `Figma`
-  - Deployment: `Vercel` `Netlify` `Surge`
-    
-  <!---
-  - Javascript Framworks/Libraries:
-  - Databases: `MySQL`
-  --->
-  <!---
-  - Design : `UI/UX`
-  --->
- 
-
+  - Backend : `Node.js` `Express.js`
+  - Authentication : `Better Auth`
+  - Tools: `Figma` `Penpot` 
+  - Deployment: `Vercel` `Netlify`
 
 ### 🐻‍❄ Connect with me_
 <a href="https://www.linkedin.com/in/tamiim-iqbal/">
@@ -113,8 +104,7 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 </a>
 <br> <br>
 
-📫 You can reach me out through Email: **iqbal.tamim.0011@gmail.com**
-
+📫 You can reach me out through Email: **tamimiiqbal01@gmail.com**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=32&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=90&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/Tamiim-Iqbal)
 
@@ -128,4 +118,4 @@ https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoim
 <img src="http://github-readme-streak-stats.herokuapp.com?user=tamiim-iqbal&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" width="55%" height="100%" alt="Github Stat"/>
   
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamiim-iqbal&theme=gotham&hide_border=true" width="46.7%" alt="Github Stat"/> -->
-</div># Tamiim-Iqbal
+</div>
