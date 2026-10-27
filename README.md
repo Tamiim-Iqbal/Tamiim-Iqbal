@@ -11,7 +11,7 @@
 I'm a <strong>Computer Science graduate</strong> and a <strong>Full-Stack Web Developer</strong> passionate about building <strong>modern, scalable, and user-friendly web applications</strong>. Currently, I'm focused on strengthening my skills in <strong>MERN Stack, Next.js, Data Structures & Algorithms, and System Design</strong> while building <strong>real-world projects</strong>.
 </p>
 
-### 😎 About Me_
+### 🤗 About Me_
 - 🎓 **Computer Science graduate** with a passion for software development
 - 💻 **Full-Stack Web Developer** focused on building modern and scalable web applications
 - 🌱 Currently strengthening my skills in **MERN Stack** and **Next.js**
@@ -33,7 +33,7 @@ https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif     [let chatgpt]
 https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g    [let chatgpt]
 ---> 
 <img src="https://komarev.com/ghpvc/?username=tamiim-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="Tamim Iqbal" />
-<img align="right" height="120" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
+<img align="right" height="140" src="https://media2.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.webp?cid=790b76114ypqoimp3jrjcd4pb4f6l8jhyzvx7ud478qw4otg&ep=v1_gifs_search&rid=giphy.webp&ct=g " />
 
 
 ### 🎯 Goals_
